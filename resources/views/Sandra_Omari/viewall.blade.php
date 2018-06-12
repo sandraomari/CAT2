@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>View All Fees</title>
+	<title>View All Fees ..</title>
 </head>
 <body align="center">
 <a href="/search/fees"><button>Back</button></a>
